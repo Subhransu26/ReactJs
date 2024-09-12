@@ -7,6 +7,7 @@ Features
 •	Delete tasks
 •	Mark tasks as completed
 •	Responsive design using Tailwind CSS
+
 Tech Stack
 •	React.js: JavaScript library for building user interfaces
 •	Tailwind CSS: Utility-first CSS framework for styling
