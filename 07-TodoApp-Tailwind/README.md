@@ -1,5 +1,6 @@
 Todo App
-•	A simple Todo application built with React.js and styled using Tailwind CSS. This app allows users to add, delete, and mark tasks as complete.
+•	A simple Todo application built with React.js and styled using Tailwind CSS.
+  This app allows users to add, delete, and mark tasks as complete.
 
 Features
 •	Add new tasks
